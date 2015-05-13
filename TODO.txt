@@ -1,0 +1,9 @@
+Separate AVL tree operations from table updates:
+  - AVL package
+  - standalone AVLTree class
+  - derived IndexedAVLTree class
+Implement:
+  - 'contains' and 'remove' methods in AVLTree class
+  - more simplistic hashing
+  - exporting of tree data
+  - command-line options
